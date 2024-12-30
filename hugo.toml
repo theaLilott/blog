@@ -70,9 +70,9 @@ theme = "hugo-blog-awesome"
     url = '/blog/'
     weight = 20
   [[Languages.en-gb.menu.main]]
-    pageRef="about"
-    name = 'About me'
-    url = '/about_me/'
+    pageRef="cv"
+    name = 'CV'
+    url = '/cv/'
     weight = 30
 
 [Languages.en-gb.params]
@@ -83,7 +83,7 @@ theme = "hugo-blog-awesome"
   # You can take a look at layouts/index.html for more information.
   description = "Here I write about my journey into AI safety"
   mainSections = ['blog']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
@@ -103,7 +103,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Manon Kempermann"
   name = "Manon Kempermann"
-  description = "I am a bachelor's student in Data Science and AI passionate about AI safety."
+  description = "I am a bachelor's student in Data Science and AI at Saarland University, research assistant at the Interdisciplinary Institute for Societal Computing and passionate about AI safety." 
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
