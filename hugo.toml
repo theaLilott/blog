@@ -103,8 +103,6 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Manon Kempermann"
   name = "Manon Kempermann"
-  description = "I am a bachelor's student in Data Science and AI at Saarland University, research assistant at the Interdisciplinary Institute for Societal Computing and passionate about AI safety." 
-
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
   name = "sitename" # will use "params.sitename" or "title" by default
