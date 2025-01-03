@@ -7,7 +7,7 @@ I want to begin this blog with an outline of the problem with AI and why we need
 
 Recently, I caught up with a friend who countered my interest in AI safety by claiming that this focus was “so German”—always overly cautious, regulating everything too much, and thereby slowing down innovation and blocking AI’s potential. While his argument has some merit, I believe there’s a deeper dimension to how AI could go wrong—one that goes beyond misuse, which was essentially his concern. This dimension is referred to as the alignment problem, and it’s what we’ll explore today.
 
-### From Cash Machines to Spam Detectors
+### Machines these days
 
 Let’s start with a simple example: an old-fashioned machine like a cash machine. Cash machines today often have digital displays, but their behavior is fairly straightforward. The machine reads the user’s card, asks for a PIN and the desired withdrawal amount, and then dispenses cash. Of course, there are additional steps involved, and errors can occur, but the machine’s behavior is generally unambiguous. If it’s programmed correctly, it will always do what we expect—dispense the correct amount of cash. If it makes a mistake, the problem lies in the program, and we can fix it by correcting the code.
 
@@ -17,7 +17,7 @@ We train the spam detector by providing examples of emails that are spam and oth
 
 But as you’ve probably experienced, the spam detector isn’t perfect. Sometimes, it flags an important email as spam—a mistake. This happens because the detector didn’t learn correctly how to distinguish between spam and non-spam emails. Unlike the cash machine, where you can fix the problem by changing a line of code, the spam detector’s behavior depends on what it learned from the examples.
 
-### The Alignment Problem in Complex Systems
+### When the behavior gets more complex
 
 As we have seen with the spam detector, when machines learn behavior, there is always the risk that they will learn something different from what we intended. This misalignment becomes even more challenging when the desired behavior involves human values or norms. How do you teach a machine values when humans themselves struggle to define and agree on them?
 
@@ -27,7 +27,7 @@ Take ChatGPT, for example. It also learns behavior—in this case, generating te
 
 Now imagine AI systems far more capable than ChatGPT and might surpass human intelligence in certain areas. If such systems are not aligned with human values, they could pursue goals in ways that harm us, even unintentionally. For instance, an AI system tasked with solving a global problem might take actions we didn’t foresee, causing more harm than good.
 
-### Why Alignment Matters
+### Why alignment matters
 
 As we’ve seen, machines that learn behavior can misalign with what we expect them to do. The challenge is that this behavior often relies on human values, which are notoriously difficult to teach a machine. The alignment problem lies at the heart of AI safety research because misaligned AI could lead to unintended and potentially harmful outcomes.
 
