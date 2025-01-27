@@ -10,7 +10,7 @@ title = 'CV'
 + BSc **Data Science and AI**, Saarland University, Germany (2023-2026) 
 
    + Member of Honours Program of the faculty (top 5% students)
-   + Average grade: 1.2 (~3.8 GPA)
+   + Average grade: 1.1 (~3.9 GPA)
    + Relevant Class work: 
 
      + **MIPS assembly**: Rock, Paper, Scissors including random number simulator
@@ -28,8 +28,8 @@ title = 'CV'
 + Spring School "Clinicum Digitale" for digital health at EKFZ Dresden, Germany (03/2024)
 
 ### Volunteering
-+ Accompanying seminars for weltwärts-volunteers as an alumna and teamer at the Internationaler Bund (01/2024 - ongoing)
-+ "weltwärts"-voluntary service at Pakashka Sacha, Tena, Ecuador (10/2022 - 08/2023)
++ Accompanying seminars for weltwärts-volunteers as an alumna and teamer-in-training at the Internationaler Bund, Germany (01/2024 - ongoing)
++ "weltwärts"-Voluntary service at Pakashka Sacha, Tena, Ecuador (10/2022 - 08/2023)
 
   Pakashka Sacha is an organisation aiming to improve education of marginalised young indigenous people in the Amazon rainforest
 
