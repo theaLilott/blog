@@ -22,9 +22,12 @@ title = 'CV'
   + Dresden Trust Scholar
   + Highers in Mathematics (A), Chemistry (A), Human Biology (A), Business Management (A), Latin (A), German (A)
 
-### Experience
+### Work Experience
 + Research Assistant at the Interdisciplinary Institute for Societal Computing (I2SC) in Saarbrücken, Germany, working on LLM-Alignment in electoral advice (05/2024 - ongoing)
 + Tutor Core Lecture "Elements of Data Science and AI" at Saarland University (10/2024 - 03/2025)
+
+### Extracurricular Education
++ "AI Safety, Ethics and Society" Course by the Center for AI Safety (CAIS) (02/2025-05/2025)
 + Spring School "Clinicum Digitale" for digital health at EKFZ Dresden, Germany (03/2024)
 
 ### Volunteering
