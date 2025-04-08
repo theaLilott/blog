@@ -25,13 +25,13 @@ This is the essence of the alignment problem. You might think, “If my spam det
 
 Take ChatGPT, for example. It also learns behavior—in this case, generating text based on your messages. But unlike the spam detector, its behavior is even less defined. You could ask it a factual question with a clear answer, or you could ask for advice, where the response depends heavily on *your* values or norms the model might not fully understand.
 
-Now imagine AI systems far more capable than ChatGPT and might surpass human intelligence in certain areas. If such systems are not aligned with human values, they could pursue goals in ways that harm us, even unintentionally. For instance, an AI system tasked with solving a global problem might take actions we didn’t foresee, causing more harm than good.
+Now imagine AI systems far more capable than ChatGPT, even surpassing human intelligence in certain areas. If such systems are not aligned with human values, they could pursue goals in ways that harm us, even unintentionally. For instance, an AI system tasked with solving a global problem might take actions we didn’t foresee, causing more harm than good.
 
 ### Why alignment matters
 
-As we’ve seen, machines that learn behavior can misalign with what we expect them to do. The challenge is that this behavior often relies on human values, which are notoriously difficult to teach a machine. The alignment problem lies at the heart of AI safety research because misaligned AI could lead to unintended and potentially harmful outcomes.
+As we’ve seen, machines that learn behavior can become misaligned to what we expect them to do. The challenge is that this behavior often relies on human values, which are notoriously difficult to teach a machine. The alignment problem lies at the heart of AI safety research because misaligned AI could lead to unintended and potentially harmful outcomes.
 
 While a misclassified email is a small annoyance, misaligned AI systems operating in high-stakes areas like healthcare, justice, or governance could have far-reaching consequences.
 
 
-In the following posts, we will dive deeper into the risks of misaligned AI and examine how realistic these risks are. For now, it is enough to understand that AI safety isn’t only about preventing misuse. It’s about ensuring that AI does what we want it to do, in particular not causing (unintenionally) harm.
+In the following posts, we will dive deeper into the risks of misaligned AI and examine how realistic these risks are. For now, it is enough to understand that AI safety isn’t only about preventing misuse. It’s about ensuring that AI does what we want it to do, in particular not causing (unintentional) harm.
