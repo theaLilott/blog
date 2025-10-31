@@ -10,7 +10,8 @@ title = 'CV'
 + BSc **Data Science and AI**, Saarland University, Germany (2023 - 2026) 
 
 
-   + Average grade: 1.2 (~3.8 GPA)
+   + Average grade: 1.3 (~3.8 GPA)
+   + Currently writing thesis at Max Planck Institute for Software Systems under supervision of Goran Radanović and Adish Singla on redteaming for misalignment in AI agents
    + Relevant Class work: 
 
      + **MIPS assembly**: Rock, Paper, Scissors including random number simulator
@@ -33,14 +34,21 @@ and Mathematics (top 5% students), Saarland University (2023 - ongoing)
 + Dresden Trust Scholarship (2021 - 2022)
 
 ### Work Experience
-+ Research Assistant at the Interdisciplinary Institute for Societal Computing (I2SC) in Saarbrücken, Germany, working on LLM-Alignment in advice giving (05/2024 - ongoing)
++ Research Assistant at the Interdisciplinary Institute for Societal Computing (I2SC) in Saarbrücken, Germany, working on context-dependent user risk evaluations of LLMs (05/2024 - ongoing)
 + Tutor Core Lecture "Elements of Data Science and AI" at Saarland University (10/2024 - 03/2025)
 
 ### Publications
-+ Jianlong Zhu, **Manon Lilott Kempermann**, Vikram Kamath Cannanure, Alexander Hartland, Rosa M. Navarrete, Giuseppe Carteny, Daniela Braun, Ingmar Weber: Learn, Explore and Reflect by Chatting: Understanding the Value of an LLM-Based Voting Advice Application Chatbot, ACM Conversational User Interfaces (CUI), Preprint: https://arxiv.org/pdf/2505.09806
++ Jianlong Zhu, **Manon Lilott Kempermann**, Vikram Kamath Cannanure, Alexander Hartland, Rosa M. Navarrete, Giuseppe Carteny, Daniela Braun, Ingmar Weber: Learn, Explore and Reflect by Chatting: Understanding the Value of an LLM-Based Voting Advice Application Chatbot, ACM Conversational User Interfaces (CUI), Paper: https://dl.acm.org/doi/10.1145/3719160.3736611 
 
 ### Extracurricular Education
-+ "AI Safety, Ethics and Society" Course by the Center for AI Safety (CAIS) (02/2025 - ongoing)
++ Founder and lead organiser of [AI Safety Saarland](www.ais-saarland.org)
+  - Leading Organiser Team of 10 people
+  - organising mentored research program for 35 students in 17 projects
+  - running weekly reading groups for students in research program
+  - organising public events such as kick-off with talk by Jan Kirchner from Anthropic with 300+ attendees
+  - secured funding for group from Berkeley Existential Risk Initiative through Pathfinder Fellowship
++ "AGI Strategy"-Course by BlueDot Impact (10/2025-11/2025)
++ "AI Safety, Ethics and Society" Course by the Center for AI Safety (CAIS) (02/2025 - 05/2025)
 + Global Challenges Project Workshop in Oxford (03/2025)
 + ML4Good - 10-day intense AI safety upskilling bootcamp (03/2025)
 + Spring School "Clinicum Digitale" for digital health at EKFZ Dresden, Germany (03/2024)
