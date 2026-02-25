@@ -104,7 +104,7 @@ theme = "hugo-blog-awesome"
   # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
-  avatar = "IMG_4284.jpeg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "profile_pic.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Manon Kempermann"
   name = "Manon Kempermann"
